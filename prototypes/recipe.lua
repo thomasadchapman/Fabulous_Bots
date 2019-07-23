@@ -1,12 +1,12 @@
 data:extend({
     {
        type = "recipe",
-       name = "hard hat",
+       name = "hard-hat",
        enabled = "true",
        ingredients = 
        {
          {"wood",5}
        },
-       result = "hard hat"
+       result = "hard-hat"
      }
    })
