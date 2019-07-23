@@ -1,9 +1,12 @@
 {
-    "name": "Fabulous_Bots",
+    "name": "Fabulous-Bots",
     "version": "0.1.0",
     "title": "Fabulous Bots and their amazing outfits",
-    "author": "ride_whenever",
+    "author": "ride_whenever, CzBuCHi",	
     "contact": "https://www.reddit.com/r/factorio/comments/cgp9mt/biters_killed_a_bunch_of_my_robots_so_i_gave_them/",
     "homepage": "https://www.reddit.com/r/factorio/comments/cgp9mt/biters_killed_a_bunch_of_my_robots_so_i_gave_them/",
-    "description": "Mod that adds fabulous outfits to bots"
+    "description": "Mod that adds fabulous outfits to bots",
+	"licence": "MIT",
+	"dependencies": ["base >= 0.17.35"],
+    "factorio_version": "0.17"
   }
